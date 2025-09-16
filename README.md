@@ -1,0 +1,2 @@
+# chatgpt
+codex use only
